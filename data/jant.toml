@@ -1,0 +1,101 @@
+format = "jant-site"
+version = 1
+generated_at = "2026-05-20T11:36:15.000Z"
+site_name = "Kikko"
+site_description = ""
+site_language = "zh-Hans"
+home_default_view = "latest"
+main_rss_feed = "featured"
+show_jant_branding_on_home = false
+show_header_avatar = true
+noindex = false
+site_avatar_mode = "custom"
+favicon_mode = "custom"
+apple_touch_mode = "custom"
+theme_id = "sage"
+default_theme_id = "tufte"
+font_theme_id = "classic"
+theme_mode = "auto"
+page_size = 50
+archive_page_size = 50
+rss_feed_limit = 50
+favicon_path = "/favicon.ico"
+apple_touch_icon_path = "/apple-touch-icon.png"
+site_avatar_url = "/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/assets/avatar/med_01ks2ccymwe49af2pfyhph52fw.svg"
+favicon_version = "202605200945"
+
+[[nav]]
+type = "system"
+label = "Latest"
+url = "/"
+system_key = "latest"
+placement = "header"
+
+[[nav]]
+type = "system"
+label = "Featured"
+url = "/featured/"
+system_key = "featured"
+placement = "header"
+
+[[nav]]
+type = "collection"
+label = "Now"
+url = "/now"
+system_key = ""
+placement = "header"
+
+[[nav]]
+type = "system"
+label = "Collections"
+url = "/collections/"
+system_key = "collections"
+placement = "header"
+
+[[nav]]
+type = "system"
+label = "Archive"
+url = "/archive/"
+system_key = "archive"
+placement = "header"
+
+[[nav]]
+type = "system"
+label = "RSS"
+url = "/featured/index.xml"
+system_key = "rss"
+placement = "more"
+
+[[directory]]
+type = "link"
+sequence = "00"
+label = "Posts"
+url = "/archive?format=note&hasTitle=1&visibility=public"
+
+[[directory]]
+type = "collection"
+sequence = "01"
+slug = "now"
+title = "Now"
+entry_count = 7
+recent_activity_label = "1d ago"
+recent_activity_iso = "2026-05-18T16:15:38.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "02"
+slug = "music"
+title = "Music"
+entry_count = 1
+recent_activity_label = "3h ago"
+recent_activity_iso = "2026-05-20T07:55:41.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "03"
+slug = "site-log"
+title = "Site log"
+description_html = "<p>本站点修改记录</p>"
+entry_count = 1
+recent_activity_label = "14m ago"
+recent_activity_iso = "2026-05-20T11:21:19.000Z"

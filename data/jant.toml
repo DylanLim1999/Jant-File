@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-05-20T11:36:15.000Z"
+generated_at = "2026-05-22T02:49:42.000Z"
 site_name = "Kikko"
 site_description = ""
 site_language = "zh-Hans"
@@ -77,9 +77,9 @@ type = "collection"
 sequence = "01"
 slug = "now"
 title = "Now"
-entry_count = 7
-recent_activity_label = "1d ago"
-recent_activity_iso = "2026-05-18T16:15:38.000Z"
+entry_count = 8
+recent_activity_label = "1m ago"
+recent_activity_iso = "2026-05-22T02:49:41.000Z"
 
 [[directory]]
 type = "collection"
@@ -87,7 +87,7 @@ sequence = "02"
 slug = "music"
 title = "Music"
 entry_count = 1
-recent_activity_label = "3h ago"
+recent_activity_label = "1d ago"
 recent_activity_iso = "2026-05-20T07:55:41.000Z"
 
 [[directory]]
@@ -97,5 +97,5 @@ slug = "site-log"
 title = "Site log"
 description_html = "<p>本站点修改记录</p>"
 entry_count = 1
-recent_activity_label = "14m ago"
+recent_activity_label = "1d ago"
 recent_activity_iso = "2026-05-20T11:21:19.000Z"

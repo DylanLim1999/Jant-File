@@ -3,6 +3,8 @@ id: "pst_01ks9b8peee49af2x7e445njcf"
 date: "2026-05-23T02:40:11.000Z"
 slug: "4xgml"
 type: "post"
+aliases:
+  - "/betci/"
 format: "note"
 status: "published"
 visibility: "latest_hidden"
@@ -26,6 +28,7 @@ media:
     size: 484962
     provider: "local"
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks9b52ffe49af2wtnts81vm7.jpg"
+last_activity_at: "2026-05-23T07:20:56.000Z"
 ---
 
 今天一大早就接到顺丰派送电话，原本周六是要睡很晚的。托朋友帮忙从香港代购了港版 iPhone 17，终于把用了几年的小 13 换下来了。

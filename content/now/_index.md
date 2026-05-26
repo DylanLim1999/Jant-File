@@ -3,7 +3,7 @@ title: "Now"
 slug: "now"
 type: "collection"
 sort_order: "newest"
-entry_count: 9
+entry_count: 10
 outputs:
   - "html"
   - "rss"

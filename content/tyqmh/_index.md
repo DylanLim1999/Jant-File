@@ -2,7 +2,7 @@
 id: "pst_01ksjg11a3e49af30xmrrr95m8"
 title: "智能猫门 Training Mode！"
 date: "2026-05-26T16:09:25.000Z"
-updated: "2026-05-26T16:12:36.000Z"
+updated: "2026-05-26T16:18:34.000Z"
 slug: "tyqmh"
 type: "post"
 format: "note"
@@ -16,10 +16,22 @@ collections:
     position: 0
     pinned_at: null
 media:
+  - id: "med_01ksjh90fwe49af32jwhwswkyv"
+    kind: "image"
+    src: "/media/med_01ksjh90fwe49af32jwhwswkyv.jpg"
+    position: 3055
+    width: 2560
+    height: 1920
+    blurhash: "LeIEX?-Wt7-p~VNHo#xu$*Rjo#oL"
+    original_name: "IMG_0047.jpg"
+    mime_type: "image/jpeg"
+    size: 985237
+    provider: "local"
+    storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjh90fwe49af32jwhwswkyv.jpg"
   - id: "med_01ksjg11a0e49af30ky3vmn2hc"
     kind: "text"
     src: "/media/med_01ksjg11a0e49af30ky3vmn2hc.md"
-    position: 3055
+    position: 3056
     original_name: "attached-text.md"
     mime_type: "text/markdown; charset=utf-8"
     size: 711
@@ -30,7 +42,7 @@ media:
   - id: "med_01ksjgg4j0e49af3225zbnqvjg"
     kind: "image"
     src: "/media/med_01ksjgg4j0e49af3225zbnqvjg.jpg"
-    position: 3056
+    position: 3057
     width: 1206
     height: 2622
     blurhash: "LGK_nO?c-U_4?bogRjof00V?I=M_"
@@ -42,7 +54,7 @@ media:
   - id: "med_01ksjgg4g8e49af31maydp065b"
     kind: "image"
     src: "/media/med_01ksjgg4g8e49af31maydp065b.jpg"
-    position: 3057
+    position: 3058
     width: 766
     height: 791
     blurhash: "LBQ]Ti_349?b?HofkWae8vWBqGjZ"

@@ -1,0 +1,41 @@
+---
+id: "pst_01ksjg11a3e49af30xmrrr95m8"
+date: "2026-05-26T15:56:33.000Z"
+updated: "2026-05-26T15:56:33.000Z"
+slug: "tyqmh"
+type: "post"
+draft: true
+format: "note"
+status: "draft"
+visibility: "public"
+summary_text: "2023 年刚养二胎的时候为了防止老二吃老大的成猫粮，用 Catmate 智能猫门做了智能进出大狗笼，直到老二成年且观察不太会互相影响就拆了狗笼闲置。 去年接三胎接到了个无底洞饭桶，大狗笼再次派上用场，但因为怕老大老二长期佩戴芯片不舒服，老三也并没有学会用猫门。一直使用胶布粘上锁扣，但是胶布时间长了都会松开导致他们进不去吃饭。 今晚又出现这个情况，差点打算买个便宜的普通猫门和定制新的亚克力板重新安装了。 没想到问了一下 Claude 发现 Catmate 还有训练模式可以触发常开？！ 都怪英国品牌产品说明书又大又长，早都不知道丢哪去了🥵"
+collections:
+  - slug: "now"
+    title: "Now"
+    collected_at: "2026-05-26T15:56:33.000Z"
+    position: 0
+    pinned_at: null
+media:
+  - id: "med_01ksjg11a0e49af30ky3vmn2hc"
+    kind: "text"
+    src: "/media/med_01ksjg11a0e49af30ky3vmn2hc.md"
+    position: 3055
+    original_name: "attached-text.md"
+    mime_type: "text/markdown; charset=utf-8"
+    size: 711
+    summary: "更好的方案：直接用 Cat Mate 的 Training Mode（训练模式）进入训练模式的方法：取出一节电池，等至少 2 分钟，重新插入，等锁扣落下（约 5 秒），然后立即再次取出一节或全部电池，…"
+    chars: 258
+    provider: "local"
+    storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjg11a0e49af30ky3vmn2hc.md"
+last_activity_at: "2026-05-26T15:56:33.000Z"
+---
+
+2023 年刚养二胎的时候为了防止老二吃老大的成猫粮，用 Catmate 智能猫门做了智能进出大狗笼，直到老二成年且观察不太会互相影响就拆了狗笼闲置。
+
+去年接三胎接到了个无底洞饭桶，大狗笼再次派上用场，但因为怕老大老二长期佩戴芯片不舒服，老三也并没有学会用猫门。一直使用胶布粘上锁扣，但是胶布时间长了都会松开导致他们进不去吃饭。
+
+今晚又出现这个情况，差点打算买个便宜的普通猫门和定制新的亚克力板重新安装了。
+
+没想到问了一下 Claude 发现 Catmate 还有训练模式可以触发常开？！
+
+都怪英国品牌产品说明书又大又长，早都不知道丢哪去了🥵

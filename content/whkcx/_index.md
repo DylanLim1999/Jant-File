@@ -1,11 +1,12 @@
 ---
 id: "pst_01ks6sdbm1e49af2sw0xd48rj2"
 date: "2026-05-22T02:49:41.000Z"
+updated: "2026-05-27T03:57:10.000Z"
 slug: "whkcx"
 type: "post"
 format: "note"
 status: "published"
-visibility: "public"
+visibility: "latest_hidden"
 summary_text: "这周开始每天爬楼梯做一点有氧运动，刚好公司在 48 楼，每天中午从 1 楼爬上来一遍。"
 collections:
   - slug: "now"

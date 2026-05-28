@@ -1,7 +1,8 @@
 ---
 id: "pst_01ksqm53kze49af33s8n2fg97n"
-title: "待机破产与世代分配"
+title: "代际破产与世代分配"
 date: "2026-05-28T15:44:53.000Z"
+updated: "2026-05-28T15:45:25.000Z"
 slug: "dai-ji-po-chan-yu-shi-dai-fen-pei"
 type: "post"
 format: "link"

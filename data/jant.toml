@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-05-28T11:19:45.000Z"
+generated_at = "2026-05-28T15:44:53.000Z"
 site_name = "Kikko"
 site_description = ""
 site_language = "zh-Hans"
@@ -84,11 +84,11 @@ recent_activity_iso = "2026-05-26T16:09:25.000Z"
 [[directory]]
 type = "collection"
 sequence = "02"
-slug = "music"
-title = "Music"
+slug = "uses"
+title = "Uses"
 entry_count = 2
-recent_activity_label = "2d ago"
-recent_activity_iso = "2026-05-26T01:25:11.000Z"
+recent_activity_label = "3d ago"
+recent_activity_iso = "2026-05-25T04:08:48.000Z"
 
 [[directory]]
 type = "collection"
@@ -97,14 +97,27 @@ slug = "site-log"
 title = "Site log"
 description_html = "<p>本站点修改记录</p>"
 entry_count = 1
-recent_activity_label = "7d ago"
+recent_activity_label = "May 20"
 recent_activity_iso = "2026-05-20T11:21:19.000Z"
 
 [[directory]]
+type = "divider"
+label = "消费的内容"
+
+[[directory]]
 type = "collection"
-sequence = "04"
-slug = "uses"
-title = "Uses"
+sequence = "00"
+slug = "music"
+title = "Music"
 entry_count = 2
-recent_activity_label = "3d ago"
-recent_activity_iso = "2026-05-25T04:08:48.000Z"
+recent_activity_label = "2d ago"
+recent_activity_iso = "2026-05-26T01:25:11.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "01"
+slug = "videos"
+title = "Videos"
+entry_count = 1
+recent_activity_label = "1m ago"
+recent_activity_iso = "2026-05-28T15:44:53.000Z"

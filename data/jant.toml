@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-06-12T04:03:58.000Z"
+generated_at = "2026-06-12T04:07:43.000Z"
 site_name = "Kikko"
 site_description = ""
 site_language = "zh-Hans"
@@ -128,5 +128,5 @@ sequence = "02"
 slug = "film-and-tv"
 title = "Film & TV"
 entry_count = 1
-recent_activity_label = "1m ago"
+recent_activity_label = "3m ago"
 recent_activity_iso = "2026-06-12T04:03:57.000Z"

@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-06-24T09:30:18.000Z"
+generated_at = "2026-06-26T07:02:47.000Z"
 site_name = "Kikko"
 site_description = ""
 site_language = "zh-Hans"
@@ -109,9 +109,9 @@ type = "collection"
 sequence = "00"
 slug = "music"
 title = "Music"
-entry_count = 2
-recent_activity_label = "May 26"
-recent_activity_iso = "2026-05-26T01:25:11.000Z"
+entry_count = 3
+recent_activity_label = "1m ago"
+recent_activity_iso = "2026-06-26T07:02:47.000Z"
 
 [[directory]]
 type = "collection"

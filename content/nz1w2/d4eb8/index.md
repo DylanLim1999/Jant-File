@@ -14,7 +14,7 @@ summary_text: "家里有猫，很多对猫有毒不能买的很可惜～"
 media:
   - id: "med_01ks2bw7bnf23a0z77jj0a5be9"
     kind: "image"
-    src: "/media/med_01ks2bw7bnf23a0z77jj0a5be9.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw7bnf23a0z77jj0a5be9.jpg"
     position: 3055
     width: 1920
     height: 1440
@@ -26,7 +26,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw7bnf23a0z77jj0a5be9.jpg"
   - id: "med_01ks2bw7t9f23a0z78z20n1x02"
     kind: "image"
-    src: "/media/med_01ks2bw7t9f23a0z78z20n1x02.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw7t9f23a0z78z20n1x02.jpg"
     position: 3056
     width: 1440
     height: 1920
@@ -38,7 +38,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw7t9f23a0z78z20n1x02.jpg"
   - id: "med_01ks2bw87sf23a0z7gs2cv0ntv"
     kind: "image"
-    src: "/media/med_01ks2bw87sf23a0z7gs2cv0ntv.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw87sf23a0z7gs2cv0ntv.jpg"
     position: 3057
     width: 1080
     height: 1920

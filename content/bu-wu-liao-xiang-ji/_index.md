@@ -18,7 +18,7 @@ collections:
 media:
   - id: "med_01kv5y3t1ve49af399n8qeaxtq"
     kind: "image"
-    src: "/media/med_01kv5y3t1ve49af399n8qeaxtq.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01kv5y3t1ve49af399n8qeaxtq.jpg"
     position: 3055
     width: 1206
     height: 2622
@@ -30,7 +30,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01kv5y3t1ve49af399n8qeaxtq.jpg"
   - id: "med_01kv5ye389e49af39zh2rkrvw1"
     kind: "image"
-    src: "/media/med_01kv5ye389e49af39zh2rkrvw1.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01kv5ye389e49af39zh2rkrvw1.jpg"
     position: 3056
     width: 1920
     height: 2560
@@ -42,7 +42,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01kv5ye389e49af39zh2rkrvw1.jpg"
   - id: "med_01kv5ye3a1e49af3aev45ncmh2"
     kind: "image"
-    src: "/media/med_01kv5ye3a1e49af3aev45ncmh2.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01kv5ye3a1e49af3aev45ncmh2.jpg"
     position: 3057
     width: 2560
     height: 1920

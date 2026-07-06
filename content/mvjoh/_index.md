@@ -16,7 +16,7 @@ collections:
 media:
   - id: "med_01ksemydkye49af2y8wh3055q2"
     kind: "image"
-    src: "/media/med_01ksemydkye49af2y8wh3055q2.webp"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksemydkye49af2y8wh3055q2.webp"
     position: 3055
     width: 2584
     height: 1808

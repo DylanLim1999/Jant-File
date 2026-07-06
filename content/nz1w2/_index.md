@@ -20,7 +20,7 @@ collections:
 media:
   - id: "med_01ks2bw8mhf23a0z7sfz8x207t"
     kind: "image"
-    src: "/media/med_01ks2bw8mhf23a0z7sfz8x207t.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw8mhf23a0z7sfz8x207t.jpg"
     position: 3055
     width: 1440
     height: 1920
@@ -32,7 +32,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw8mhf23a0z7sfz8x207t.jpg"
   - id: "med_01ks2bw90zf23a0z85ram25x5r"
     kind: "image"
-    src: "/media/med_01ks2bw90zf23a0z85ram25x5r.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw90zf23a0z85ram25x5r.jpg"
     position: 3056
     width: 1440
     height: 1920
@@ -44,7 +44,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw90zf23a0z85ram25x5r.jpg"
   - id: "med_01ks2bw9k4f23a0z8852pcpjse"
     kind: "image"
-    src: "/media/med_01ks2bw9k4f23a0z8852pcpjse.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw9k4f23a0z8852pcpjse.jpg"
     position: 3057
     width: 1440
     height: 1920
@@ -56,7 +56,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw9k4f23a0z8852pcpjse.jpg"
   - id: "med_01ks2bwa08f23a0z8mk40aypgf"
     kind: "image"
-    src: "/media/med_01ks2bwa08f23a0z8mk40aypgf.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwa08f23a0z8mk40aypgf.jpg"
     position: 3058
     width: 1440
     height: 1920
@@ -68,7 +68,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwa08f23a0z8mk40aypgf.jpg"
   - id: "med_01ks2bwadmf23a0z8shxvbjf6h"
     kind: "image"
-    src: "/media/med_01ks2bwadmf23a0z8shxvbjf6h.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwadmf23a0z8shxvbjf6h.jpg"
     position: 3059
     width: 1440
     height: 1920
@@ -80,7 +80,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwadmf23a0z8shxvbjf6h.jpg"
   - id: "med_01ks2bwatzf23a0z906v0qw497"
     kind: "image"
-    src: "/media/med_01ks2bwatzf23a0z906v0qw497.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwatzf23a0z906v0qw497.jpg"
     position: 3060
     width: 1440
     height: 1920
@@ -92,7 +92,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwatzf23a0z906v0qw497.jpg"
   - id: "med_01ks2bwbbpf23a0z9caf83pd74"
     kind: "image"
-    src: "/media/med_01ks2bwbbpf23a0z9caf83pd74.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwbbpf23a0z9caf83pd74.jpg"
     position: 3061
     width: 1440
     height: 1920
@@ -104,7 +104,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwbbpf23a0z9caf83pd74.jpg"
   - id: "med_01ks2bwbs0f23a0z9k4s2byn83"
     kind: "image"
-    src: "/media/med_01ks2bwbs0f23a0z9k4s2byn83.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwbs0f23a0z9k4s2byn83.jpg"
     position: 3062
     width: 1440
     height: 1920
@@ -116,7 +116,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwbs0f23a0z9k4s2byn83.jpg"
   - id: "med_01ks2bwc65f23a0z9vwx4fjtrr"
     kind: "image"
-    src: "/media/med_01ks2bwc65f23a0z9vwx4fjtrr.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwc65f23a0z9vwx4fjtrr.jpg"
     position: 3063
     width: 1440
     height: 1920
@@ -128,7 +128,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwc65f23a0z9vwx4fjtrr.jpg"
   - id: "med_01ks2bwck8f23a0za6e2zqwr68"
     kind: "image"
-    src: "/media/med_01ks2bwck8f23a0za6e2zqwr68.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwck8f23a0za6e2zqwr68.jpg"
     position: 3064
     width: 1440
     height: 1920
@@ -140,7 +140,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwck8f23a0za6e2zqwr68.jpg"
   - id: "med_01ks2bwd12f23a0zafb5w2jjfv"
     kind: "image"
-    src: "/media/med_01ks2bwd12f23a0zafb5w2jjfv.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwd12f23a0zafb5w2jjfv.jpg"
     position: 3072
     width: 1440
     height: 1920
@@ -152,7 +152,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwd12f23a0zafb5w2jjfv.jpg"
   - id: "med_01ks2bwdgxf23a0zakmnzk9j90"
     kind: "image"
-    src: "/media/med_01ks2bwdgxf23a0zakmnzk9j90.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwdgxf23a0zakmnzk9j90.jpg"
     position: 3073
     width: 1440
     height: 1920
@@ -164,7 +164,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwdgxf23a0zakmnzk9j90.jpg"
   - id: "med_01ks2bwdyhf23a0zasz8pfvee2"
     kind: "image"
-    src: "/media/med_01ks2bwdyhf23a0zasz8pfvee2.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwdyhf23a0zasz8pfvee2.jpg"
     position: 3074
     width: 1440
     height: 1920
@@ -176,7 +176,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwdyhf23a0zasz8pfvee2.jpg"
   - id: "med_01ks2bwebqf23a0zb4kx2p519q"
     kind: "image"
-    src: "/media/med_01ks2bwebqf23a0zb4kx2p519q.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwebqf23a0zb4kx2p519q.jpg"
     position: 3075
     width: 1440
     height: 1920
@@ -188,7 +188,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwebqf23a0zb4kx2p519q.jpg"
   - id: "med_01ks2bwer7f23a0zb9d08sr1ag"
     kind: "image"
-    src: "/media/med_01ks2bwer7f23a0zb9d08sr1ag.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwer7f23a0zb9d08sr1ag.jpg"
     position: 3076
     width: 1440
     height: 1920
@@ -200,7 +200,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwer7f23a0zb9d08sr1ag.jpg"
   - id: "med_01ks2bwf5jf23a0zbqce3kevhx"
     kind: "image"
-    src: "/media/med_01ks2bwf5jf23a0zbqce3kevhx.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwf5jf23a0zbqce3kevhx.jpg"
     position: 3077
     width: 1440
     height: 1920
@@ -212,7 +212,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwf5jf23a0zbqce3kevhx.jpg"
   - id: "med_01ks2bwfkpf23a0zby50yp2x6n"
     kind: "image"
-    src: "/media/med_01ks2bwfkpf23a0zby50yp2x6n.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwfkpf23a0zby50yp2x6n.jpg"
     position: 3078
     width: 1440
     height: 1920
@@ -224,7 +224,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwfkpf23a0zby50yp2x6n.jpg"
   - id: "med_01ks2bwg0jf23a0zc14nwxapdy"
     kind: "image"
-    src: "/media/med_01ks2bwg0jf23a0zc14nwxapdy.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwg0jf23a0zc14nwxapdy.jpg"
     position: 3079
     width: 1440
     height: 1920

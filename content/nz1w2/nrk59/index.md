@@ -13,7 +13,7 @@ visibility: "public"
 media:
   - id: "med_01ks2bwgdgf23a0zcdaz13epf0"
     kind: "image"
-    src: "/media/med_01ks2bwgdgf23a0zcdaz13epf0.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwgdgf23a0zcdaz13epf0.jpg"
     position: 3055
     width: 1440
     height: 1920
@@ -25,7 +25,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwgdgf23a0zcdaz13epf0.jpg"
   - id: "med_01ks2bwgv1f23a0zchgcy1gk0m"
     kind: "image"
-    src: "/media/med_01ks2bwgv1f23a0zchgcy1gk0m.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwgv1f23a0zchgcy1gk0m.jpg"
     position: 3056
     width: 1440
     height: 1920
@@ -37,7 +37,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwgv1f23a0zchgcy1gk0m.jpg"
   - id: "med_01ks2bwh83f23a0zcssjgpc9yx"
     kind: "image"
-    src: "/media/med_01ks2bwh83f23a0zcssjgpc9yx.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwh83f23a0zcssjgpc9yx.jpg"
     position: 3057
     width: 1440
     height: 1920
@@ -49,7 +49,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwh83f23a0zcssjgpc9yx.jpg"
   - id: "med_01ks2bwhnef23a0zd0rzekj8mv"
     kind: "image"
-    src: "/media/med_01ks2bwhnef23a0zd0rzekj8mv.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwhnef23a0zd0rzekj8mv.jpg"
     position: 3058
     width: 1440
     height: 1920
@@ -61,7 +61,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwhnef23a0zd0rzekj8mv.jpg"
   - id: "med_01ks2bwj26f23a0zdekjm9ffs0"
     kind: "image"
-    src: "/media/med_01ks2bwj26f23a0zdekjm9ffs0.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwj26f23a0zdekjm9ffs0.jpg"
     position: 3059
     width: 1080
     height: 1920
@@ -73,7 +73,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwj26f23a0zdekjm9ffs0.jpg"
   - id: "med_01ks2bwjfnf23a0zdhgfhs75xr"
     kind: "image"
-    src: "/media/med_01ks2bwjfnf23a0zdhgfhs75xr.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bwjfnf23a0zdhgfhs75xr.jpg"
     position: 3060
     width: 1440
     height: 1920

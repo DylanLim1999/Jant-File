@@ -18,7 +18,7 @@ collections:
 media:
   - id: "med_01ksjh90fwe49af32jwhwswkyv"
     kind: "image"
-    src: "/media/med_01ksjh90fwe49af32jwhwswkyv.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjh90fwe49af32jwhwswkyv.jpg"
     position: 3055
     width: 2560
     height: 1920
@@ -30,7 +30,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjh90fwe49af32jwhwswkyv.jpg"
   - id: "med_01ksjg11a0e49af30ky3vmn2hc"
     kind: "text"
-    src: "/media/med_01ksjg11a0e49af30ky3vmn2hc.md"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjg11a0e49af30ky3vmn2hc.md"
     position: 3056
     original_name: "attached-text.md"
     mime_type: "text/markdown; charset=utf-8"
@@ -41,7 +41,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjg11a0e49af30ky3vmn2hc.md"
   - id: "med_01ksjgg4j0e49af3225zbnqvjg"
     kind: "image"
-    src: "/media/med_01ksjgg4j0e49af3225zbnqvjg.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjgg4j0e49af3225zbnqvjg.jpg"
     position: 3057
     width: 1206
     height: 2622
@@ -53,7 +53,7 @@ media:
     storage_key: "media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjgg4j0e49af3225zbnqvjg.jpg"
   - id: "med_01ksjgg4g8e49af31maydp065b"
     kind: "image"
-    src: "/media/med_01ksjgg4g8e49af31maydp065b.jpg"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ksjgg4g8e49af31maydp065b.jpg"
     position: 3058
     width: 766
     height: 791

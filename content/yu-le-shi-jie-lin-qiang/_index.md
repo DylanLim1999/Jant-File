@@ -19,7 +19,7 @@ collections:
 media:
   - id: "med_01ks2bw6h1f23a0z6pcp5hsp1s"
     kind: "image"
-    src: "/media/med_01ks2bw6h1f23a0z6pcp5hsp1s.webp"
+    src: "https://kikko.me/media/sit_01ks2ahqymf23a0z2aq4fcxbm7/files/med_01ks2bw6h1f23a0z6pcp5hsp1s.webp"
     position: 3055
     width: 500
     height: 500

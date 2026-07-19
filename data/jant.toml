@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-07-19T08:57:27.000Z"
+generated_at = "2026-07-19T09:02:34.000Z"
 site_name = "Kikko"
 site_description = ""
 site_language = "zh-Hans"
@@ -137,5 +137,5 @@ sequence = "03"
 slug = "learning-german"
 title = "Learning German"
 entry_count = 1
-recent_activity_label = "1m ago"
+recent_activity_label = "5m ago"
 recent_activity_iso = "2026-07-19T08:57:27.000Z"

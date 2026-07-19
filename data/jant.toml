@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-07-06T08:47:51.000Z"
+generated_at = "2026-07-19T08:57:27.000Z"
 site_name = "Kikko"
 site_description = ""
 site_language = "zh-Hans"
@@ -128,5 +128,14 @@ sequence = "02"
 slug = "film-and-tv"
 title = "Film & TV"
 entry_count = 3
-recent_activity_label = "2d ago"
+recent_activity_label = "Jul 4"
 recent_activity_iso = "2026-07-04T08:42:00.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "03"
+slug = "learning-german"
+title = "Learning German"
+entry_count = 1
+recent_activity_label = "1m ago"
+recent_activity_iso = "2026-07-19T08:57:27.000Z"
